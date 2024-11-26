@@ -1,0 +1,52 @@
+*{
+    /* margin: 0%; */
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    /* background-color: #1769aa; */
+    /* border: 1px solid red;  */
+}
+.navbar-brand{
+    width: 10%;
+}
+/* dropdown */
+.am{
+    padding-right: 0.3%;
+}
+/* searchicon */
+.sea{
+    padding-right:8%;
+}
+/* carticon */
+.cart{
+    padding-right:8%; 
+} 
+/* usericon */
+.us{
+    padding-right: 7%;
+}
+.icons{
+    display: flex;
+    padding-left: 30%;
+}
+.ch{
+    padding-left: 35%;
+}
+.get{
+    padding-left: 40%;
+}
+.ex{
+    padding-left: 40%;
+}
+.bal{
+    padding-left: 17%;
+}
+.wi{
+    padding-right: 10%;
+}
+.ball{
+    padding-right:10% ;
+}
+.w2{
+    padding-right: 10%;
+}
